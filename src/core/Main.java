@@ -40,7 +40,7 @@ public class Main {
         classRoom.add(svMoi);
 
         // Hien so sv trong list hien tai
-        System.out.println("So SV trong lop: ");
+        System.out.print("So SV trong lop: ");
         System.out.println(classRoom.size());
 
         // Tim sv theo ten hoac ID - van chua hoan thien tot
